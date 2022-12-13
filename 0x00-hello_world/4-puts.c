@@ -1,5 +1,6 @@
 #include<stdio.h>
-/* using puts
+/**
+ * using puts
  *
  * main is the entry point
  * 
