@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 /* using puts*/
 int main (void)
 {
