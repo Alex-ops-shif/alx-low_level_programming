@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 /**
- * main -prints the alphabet with out q and e.
+ * main -prints the alphabet without q and e.
  *
  * Returns: always 0 (success)
  */
